@@ -1,0 +1,91 @@
+[18:54:54] [main/INFO]: Extra: []
+[18:54:55] [main/INFO]: Running with arguments: [--userProperties, {}, --accessToken, {REDACTED}, --assetIndex, 1.8, --assetsDir, C:/Users/nathan/.gradle/caches/minecraft/assets, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[18:54:55] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:54:55] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:54:55] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[18:54:55] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:54:55] [main/INFO]: Forge Mod Loader version 8.0.20.1290 for Minecraft 1.8 loading
+[18:54:55] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_72, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
+[18:54:55] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[18:54:55] [main/INFO]: Calling tweak class net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[18:54:55] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[18:54:55] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[18:54:55] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:54:55] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:54:55] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:54:55] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:54:55] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:54:56] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[18:55:05] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[18:55:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:55:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:55:06] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:55:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:55:07] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:55:10] [Client thread/INFO]: Setting user: Player603
+[18:55:17] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:55:18] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[18:55:18] [Client thread/INFO]: MinecraftForge v11.14.0.1290 Initialized
+[18:55:18] [Client thread/INFO]: Replaced 204 ore recipies
+[18:55:18] [Client thread/INFO]: Completed early MinecraftForge initialization
+[18:55:19] [Client thread/INFO]: Searching C:\Users\nathan\Documents\GitHub\Java\Minecraft\Mods\Custom\1.8\Elemental-Dogs--1.8-\eclipse\mods for mods
+[18:55:24] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[18:55:25] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, ED] at CLIENT
+[18:55:25] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, ED] at SERVER
+[18:55:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Elemental Dogs
+[18:55:26] [Client thread/INFO]: Processing ObjectHolder annotations
+[18:55:26] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[18:55:26] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[18:55:26] [Client thread/INFO]: Applying holder lookups
+[18:55:26] [Client thread/INFO]: Holder lookups applied
+[18:55:28] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:55:28] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[18:55:28] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:55:29] [Thread-7/INFO]: OpenAL initialized.
+[18:55:29] [Sound Library Loader/INFO]: Sound engine started
+[18:55:46] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:55:49] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[18:55:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Elemental Dogs
+[18:55:49] [Client thread/INFO]: SoundSystem shutting down...
+[18:55:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:55:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:55:49] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[18:55:49] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:55:49] [Thread-9/INFO]: OpenAL initialized.
+[18:55:50] [Sound Library Loader/INFO]: Sound engine started
+[18:56:05] [Client thread/INFO]: Created: 512x512 textures-atlas
+[18:56:15] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[18:56:15] [Server thread/INFO]: Generating keypair
+[18:56:15] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[18:56:15] [Server thread/INFO]: Applying holder lookups
+[18:56:16] [Server thread/INFO]: Holder lookups applied
+[18:56:16] [Server thread/INFO]: Loading dimension 0 (Elemential Dogs) (net.minecraft.server.integrated.IntegratedServer@5b0a606e)
+[18:56:16] [Server thread/INFO]: Loading dimension 1 (Elemential Dogs) (net.minecraft.server.integrated.IntegratedServer@5b0a606e)
+[18:56:16] [Server thread/INFO]: Loading dimension -1 (Elemential Dogs) (net.minecraft.server.integrated.IntegratedServer@5b0a606e)
+[18:56:16] [Server thread/INFO]: Preparing start region for level 0
+[18:56:17] [Server thread/INFO]: Preparing spawn area: 25%
+[18:56:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:56:20] [Netty Local Client IO #0/INFO]: Server protocol version 1
+[18:56:20] [Netty Server IO #1/INFO]: Client protocol version 1
+[18:56:20] [Netty Server IO #1/INFO]: Client attempting to join with 4 mods : mcp@9.05,FML@8.0.20.1290,Forge@11.14.0.1290,ED@1.0
+[18:56:20] [Server thread/INFO]: [Server thread] Server side modded connection established
+[18:56:20] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[18:56:20] [Server thread/INFO]: Player603[local:E:f1931792] logged in with entity id 101 at (225.61288783942115, 4.0, -180.2937513345409)
+[18:56:20] [Server thread/INFO]: Player603 joined the game
+[18:56:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4440ms behind, skipping 88 tick(s)
+[18:56:32] [Server thread/INFO]: Player603 has just earned the achievement [Taking Inventory]
+[18:56:32] [Client thread/INFO]: [CHAT] Player603 has just earned the achievement [Taking Inventory]
+[18:56:40] [Client thread/INFO]: Stopping!
+[18:56:41] [Client thread/INFO]: SoundSystem shutting down...
+[18:56:41] [Server thread/INFO]: Stopping server
+[18:56:41] [Server thread/INFO]: Saving players
+[18:56:41] [Server thread/INFO]: Saving worlds
+[18:56:41] [Server thread/INFO]: Saving chunks for level 'Elemential Dogs'/Overworld
+[18:56:41] [Server thread/INFO]: Saving chunks for level 'Elemential Dogs'/Nether
+[18:56:41] [Server thread/INFO]: Saving chunks for level 'Elemential Dogs'/The End
+[18:56:41] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:56:41] [Server thread/INFO]: Unloading dimension 0
+[18:56:41] [Server thread/INFO]: Unloading dimension -1
+[18:56:41] [Server thread/INFO]: Unloading dimension 1
+[18:56:41] [Server thread/INFO]: Applying holder lookups
+[18:56:41] [Server thread/INFO]: Holder lookups applied
