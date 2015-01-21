@@ -24,20 +24,14 @@ public class ElementialDogsItems {
 	public static void init() {
 		dog_biscuit = new Item().setUnlocalizedName("dog_biscuit").setCreativeTab(Main.tabElementalDogs);
 		spawn_fire_dog = new Item().setUnlocalizedName("FireDogEgg").setCreativeTab(Main.tabElementalDogs);
-		collar = new Item().setUnlocalizedName("Collar").setCreativeTab(Main.tabElementalDogs);
-		spawn_choco_dog = new Item().setUnlocalizedName("ChocoDogEgg").setCreativeTab(Main.tabElementalDogs);
 	}
 	
 	public static void register() {
 		GameRegistry.registerItem(dog_biscuit, "dog_biscuit");
-		GameRegistry.registerItem(spawn_fire_dog, "FireDogEgg");
-		GameRegistry.registerItem(collar, "Collar");
 	}
 
 	public static void registerRenders() {
 		registerRender(dog_biscuit);
-		registerRender(spawn_fire_dog);
-		registerRender(collar);
 	}
 	
 	public static void registerRender(Item item) {

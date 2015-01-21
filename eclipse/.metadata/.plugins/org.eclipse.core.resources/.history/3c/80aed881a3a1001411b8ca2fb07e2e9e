@@ -36,8 +36,6 @@ public class ElementialDogsItems {
 
 	public static void registerRenders() {
 		registerRender(dog_biscuit);
-		registerRender(spawn_fire_dog);
-		registerRender(collar);
 	}
 	
 	public static void registerRender(Item item) {
